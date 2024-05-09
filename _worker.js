@@ -1,7 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 // 设置明文密码
-let password = 'cacm'; 
+let password = 'ljy2580'; 
 let sha224Password ;
 //设置伪装web
 let proxydomain = 'www.bing.com';
